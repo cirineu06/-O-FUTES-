@@ -1,11 +1,11 @@
 :root {
     --text-color: #DBE4EF;
-    --card-front-color: #144480;
-    --card-back-color: #00F4BF;
+    --card-front-color: #ffffff;
+    --card-back-color: #0a0a0a;
 }
 
 body {
-    background: url('img/bg-desktop.webp');
+    background: url('img/torcida_do_corinthians_na_estreia_do_paulista_lf1n.jpg');
     font-family: Bai Jamjuree;
 }
 
@@ -27,7 +27,7 @@ body {
 .cartao__conteudo {
     background-color: var(--card-front-color);
     text-align: center;
-    /* background-color: aquamarine; */
+    /* background-color: black; */
     height: 100%;
     transform-style: preserve-3d;
     transition: transform 300ms ease-in-out;
