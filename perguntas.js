@@ -17,7 +17,7 @@ criaCartao(
 )
 
 criaCartao(    
-    'BASQUETE',
+    'FUTEBOL',
     'qual é o melhor time do mundo?',
     'CORINTHIANS'
 )
