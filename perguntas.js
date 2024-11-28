@@ -18,6 +18,6 @@ criaCartao(
 
 criaCartao(    
     'BASQUETE',
-    'qual o time com mais titulos basquete?',
-    'Celtics e Lakers estão empatados em primeiro lugar, com 17 conquistas cada'
+    'qual é o melhor time do mundo?',
+    'CORINTHIANS'
 )
